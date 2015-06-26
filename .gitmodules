@@ -4,3 +4,6 @@
 [submodule "NewSubProject"]
 	path = NewSubProject
 	url = ../SubProject.git
+[submodule "LocalSubModule"]
+	path = LocalSubModule
+url=https://github.com/AshokPhoton/SubProject.git
